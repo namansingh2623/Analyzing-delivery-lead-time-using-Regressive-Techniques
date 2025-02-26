@@ -8,7 +8,7 @@ This project aims to predict the **delivery time of food orders** based on vario
 
 ## Course Details
 - **Course**: Time Series and Regression
-- **Instructor**: *TBD*
+- Semester 2
 
 ## Project Repository
 GitHub Repository: **[Insert GitHub Link]**
